@@ -100,6 +100,7 @@ strong:hover {
     height: 10px;
     display: inline-block;
     border-radius: 50%;
+    
 }
 .message-card {
     display: flex;
